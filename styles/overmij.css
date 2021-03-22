@@ -2,21 +2,51 @@
 
 img{
 	width: 300px;
+	border-radius: 250px;
+	margin-right: 200px;
+	margin-top: 50px;
 }
 
 h5{
 	font-family: 'Syne', sans-serif;
 	font-size: 50px;
-	padding-bottom: 18px;
 
 }
 
 p{
+	margin-top: -50px;
 	line-height: 20px;
 	font-size: 13px;
-	padding-bottom: 18px;
 }
 
 footer{
 	margin-top: 200px;
 }
+
+.pfImg{
+
+}
+
+
+#main{
+}
+
+#left{
+	display: inline-block;
+	width: 40%;
+}
+
+#right{
+	display: inline-block;
+	right: 0px;
+	width: 40%;
+
+}
+
+
+@media screen and (min-width:800px) and (max-width: 1280px) {
+  .pfImg{
+  display: inline-block;
+
+}
+
