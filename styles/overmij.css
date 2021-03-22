@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&display=swap');
+
+img{
+	width: 300px;
+}
+
+h5{
+	font-family: 'Syne', sans-serif;
+	font-size: 50px;
+	padding-bottom: 18px;
+
+}
+
+p{
+	line-height: 20px;
+	font-size: 13px;
+	padding-bottom: 18px;
+}
+
+footer{
+	margin-top: 200px;
+}
